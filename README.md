@@ -14,3 +14,11 @@ Mr. Wasutorn Sanamchai ID: 5788243
 Miss. Wipawee Likhitaporn ID: 5788305
 
 Miss. Supatjana Leardarpajit ID: 5788319
+
+You can use this project through these steps:
+
+1) Download the 'Clone' of project as a zip file
+2) Extract it to the location you want
+3) Change directory to Ionic-Project---Wireless-and-Mobile-Computing-master (the extracted folder)
+a
+
