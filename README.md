@@ -6,7 +6,7 @@ This project can be used to study.
 It cannot be used for commercial purposes.
 
 Developed by The 3rd Year ICT Students:
-Mr. Nutpapon Limsupavanich ID: 5788217 
+ขMr. Nutpapon Limsupavanich ID: 5788217 
 Mr. Wasutorn Sanamchai ID: 5788243 
 Miss. Wipawee Likhitaporn ID: 5788305
 Miss. Supatjana Leardarpajit ID: 5788319
