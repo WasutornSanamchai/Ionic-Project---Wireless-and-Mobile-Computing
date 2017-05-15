@@ -31,12 +31,7 @@ import { Facebook } from '@ionic-native/facebook';
 import { AuthService } from '../providers/auth-service';
 
 export const firebaseConfig = { //apiKey for App's firebaseDB
-  apiKey: "AIzaSyAucic-Y7IehwxzyFGTLWY22Tt55af7RpU",
-  authDomain: "vocabtermstem-522ed.firebaseapp.com",
-  databaseURL: "https://vocabtermstem-522ed.firebaseio.com",
-  projectId: "vocabtermstem-522ed",
-  storageBucket: "vocabtermstem-522ed.appspot.com",
-  messagingSenderId: "426930453977"
+  //put your firebaseConfig as stated in the README.md
 };
 
 @NgModule({
