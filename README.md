@@ -6,14 +6,13 @@ This project can be used to study.
 It cannot be used for commercial purposes.
 
 Developed by The 3rd Year ICT Students:
-
-![alt text](kong.png)
+<img src="kong.png" width="48">
 Mr. Nutpapon Limsupavanich ID: 5788217 
-![alt text](bose.png)
+<img src="bose.png" width="48">
 Mr. Wasutorn Sanamchai ID: 5788243 
-![alt text](ping.png)
+<img src="ping.png" width="48">
 Miss. Wipawee Likhitaporn ID: 5788305
-![alt text](sui.png)
+<img src="sui.png" width="48">
 Miss. Supatjana Leardarpajit ID: 5788319
 
 You can use this project through these steps:
