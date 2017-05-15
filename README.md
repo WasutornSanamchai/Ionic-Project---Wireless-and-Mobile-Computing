@@ -45,3 +45,5 @@ It is the tutorial clip from **_Todd Shelton_** (At time: 13.38 - 15.37)
 ionic serve
 ```
 
+If there is any problem, you can contact me via _wasutorn.san@gmail.com_.
+
