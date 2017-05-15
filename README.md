@@ -19,6 +19,18 @@ You can use this project through these steps:
 
 1) Download the 'Clone' of project as a zip file
 2) Extract it to the location you want
-3) Change directory to Ionic-Project---Wireless-and-Mobile-Computing-master (the extracted folder)
-a
+3) Change directory to 'Ionic-Project---Wireless-and-Mobile-Computing-master' (the extracted folder)
+'''
+cd Ionic-Project---Wireless-and-Mobile-Computing-master
+'''
+
+4) Run 'npm install'
+'''
+npm install
+'''
+
+5) After finished, run 'ionic serve'
+'''
+ionic serve
+'''
 
