@@ -28,8 +28,11 @@ cd Ionic-Project---Wireless-and-Mobile-Computing-master
 ```
 npm install
 ```
+5) Go to `app.module.ts` in `src/app/` and insert your `firebaseConfig`
+If you don't know how to insert it, go to: https://www.youtube.com/watch?v=bAqAuegNoD4
+It is the tutorial clip from **_Todd Shelton_** (At time: 13.38 - 15.37)
 
-5) After finished, run `ionic serve`
+6) After finished, run `ionic serve` 
 ```
 ionic serve
 ```
